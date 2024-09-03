@@ -1,4 +1,5 @@
 # Dragons-Legacy-Server-Modified
+[Release & Download](https://github.com/zetsr/Dragons-Legacy-Server-Modified/releases)
 ## CN
 -使用方法
 
